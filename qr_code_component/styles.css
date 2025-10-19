@@ -8,7 +8,6 @@ body {
   min-height: 100vh;
   margin: 0;
   text-align: center;
-  background: linear-gradient(135deg, hsl(212, 60%, 67%), hsl(221, 67%, 34%));
 }
 
 a[rel="home"] {
@@ -45,7 +44,7 @@ a[rel="home"]:hover {
   width: 70%;
   border-radius: 8px;
   padding: 20px 20px 20px 20px;
-  background-color: rgb(104, 100, 239);
+  background-color: rgb(121, 103, 255);
 }
 
 h1 {
