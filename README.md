@@ -1,48 +1,39 @@
-Student of Per Scholas-Dewan Mahmud
+Lab 3.2 – Practicing Implementation with Frontend Mentor
 
-1. (Graded) First Challenge – QR Code Component
-Challenge Link: QR Code Component Challenge 
+Student - Dewan Mahmud
 
-Download Starter Files: The challenge includes pre-written HTML and CSS starter code, simulating a real-world project handoff. Download these files.
-Download Figma Design File: Open the design in Figma to inspect elements as needed.
-Review Documentation: Read through the README.md and style-guide.md files for design details, colors, and fonts.
-Implementation: Open the starter code in VS Code, inspect the Figma file, and start implementing the design.
+This repository contains my Per Scholas Lab 3.2 work. It includes three Frontend Mentor challenges completed to practice translating Figma designs into responsive, accessible HTML and CSS components.
 
-Objective: Build out the QR code component to match the design as closely as possible. This simple component will help you practice aligning layout and style with a professional design.
+Project Structure:
+1. qr_code_component - QR Code Component Challenge
+2. blog_preview_card - Blog Preview Card Challenge
+3. space-tourism-website-main - Space Tourism Multi-Page Website (optional)
 
-2. (Graded) Second Challenge – Blog Preview Card
-Challenge Link: Blog Preview Card Challenge 
+Lab Objectives:
+- Create and navigate a Frontend Mentor account using GitHub login
+- Implement Figma designs into HTML and CSS
+- Practice responsive layout and accessibility
+- Submit professional components using GitHub repositories
 
-Repeat the steps from the first challenge to complete this component.
+Live Previews (update these when deployed):
+- QR Code Component: https://your-qr-demo.netlify.app
+- Blog Preview Card: https://your-blog-demo.netlify.app
+- Space Tourism Website: https://your-space-tourism-demo.netlify.app
 
-Download the starter files and Figma design.
-Read the README.md and style-guide.md files.
-Implement hover and focus states for interactive elements.
+What I Learned:
+- How to match exact spacing and colors from Figma
+- Use of CSS variables for consistent design
+- Building mobile-first layouts using Flexbox and Grid
+- Adding hover and focus states for accessibility
 
-Objective: Build the blog preview card to match the design, focusing on accurate layout, typography, and hover/focus states. This challenge will help reinforce your HTML and CSS skills, while adding basic interactivity.
+Built With:
+- HTML5 and CSS3
+- CSS custom properties
+- Mobile-first workflow
+- GitHub Pages / Netlify deployment
 
-3. (Ungraded) Third Challenge – Space Tourism Multi-Page Website
-Challenge Link: Space Tourism Multi-Page Website 
-
-This challenge is more complex and involves building a multi-page website with various components and interactions. Consider this an extended project and complete as much as possible within the time allowed.
-
-Download Starter Files: This challenge includes HTML, CSS, and JavaScript starter files.
-Review Figma and JSON Files: Open the Figma design and data.json files to access the page data and detailed design specifications.
-Implement Interactive Elements: Your users should be able to toggle between tabs, view different pages, and see hover states for interactive elements.
-Optional Code-Along: This challenge is part of a collaboration with Scrimba and includes a free code-along course by Kevin Powell . The course is approximately seven hours, and you may use it as a supplementary resource.
-
-Objective: Create as many pages and components as possible, focusing on responsive design, interactive elements, and layout. This project will test your proficiency in HTML, CSS, and JavaScript, and can serve as an impressive addition to your portfolio.
-
-Continuing Practice
-Frontend Mentor offers a wide range of challenges at different difficulty levels. For additional practice, return to the Frontend Mentor challenges page  to continue expanding your portfolio. Practicing regularly will improve your skills and help build a strong foundation in front-end development.
-
-Reflection
-After completing these challenges, take a few minutes to answer the following questions:
-
-How did using Figma designs as references affect your coding process?
-What challenges did you encounter when aligning your code with the design specifications?
-How can the feedback and community resources on Frontend Mentor help you improve as a developer?
-Summary
-
-In this lab, you practiced implementing Figma designs using Frontend Mentor’s challenges. By building projects like the QR Code Component and Blog Preview Card, you gained valuable experience in interpreting design files, writing HTML and CSS, and creating professional, polished components. These projects can serve as strong additions to your development portfolio and provide a foundation for continued practice on Frontend Mentor.
-
+Author:
+Dewan Mahmud 
+GitHub: https://github.com/DewanTechUS
+Frontend Mentor: https://www.frontendmentor.io/profile/DewanTechUS
+Website: https://www.dewantech.com
